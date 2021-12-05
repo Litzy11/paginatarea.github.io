@@ -1,0 +1,134 @@
+#principal{
+    
+    width: 900px;
+    height: auto;overflow: hidden;
+    border: 0px solid #BDB7B6;
+    margin: auto;
+}
+      
+header {
+	width: 900px;
+	height: 100px;
+	border: 0px solid  #DCDBDB;
+}
+      
+#logo{
+	width: 200px;
+	height: 100px;
+	border: 0px solid #DCDBDB;
+	float: left;
+	text-align: center;
+}
+
+.titulo{
+     font-size: 35px;
+     color :#0350FF;
+     margin-top: 25px;
+
+}
+
+.titulo2{
+
+font-size: 15px;
+margin-top: -20px;
+
+}
+
+
+.menu{
+	width: 450px;
+	height: 40px;
+	float: right;
+	margin-top: 40px; 
+	background: #E5E7E8;
+}
+
+
+
+.menu ul{}
+
+.menu ul li {
+	list-style: none;
+	float: right;
+
+} 
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #eee;
+	color: #000;
+}
+
+
+
+#slide {
+	margin-top: 10px;
+	width: 900px;
+	height: 250;
+}
+
+#categoria {
+	width: 900px;
+	height: auto;overflow: hidden;
+	border: 0px solid;
+	margin-top: 10px;
+}
+
+
+.uno{
+
+	width: 280px;
+	height: 480px;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+	text-align: center;
+}
+
+.dos {
+	margin-left: 12px;
+	margin-right: 12px;
+
+}
+
+
+.leer-mas {
+	text-decoration: none;
+	border: 1px solid #69B6FB;
+	padding: 10px 10px 10px 10px;
+	margin: 10px;
+}
+.leer-mas:hover {
+	background:#69B6FB;
+	color: #fff; 
+	transition: background 1s color 1s;
+
+}
+
+#info{
+     width: 900px;
+	height: auto;overflow: hidden;
+	border: 0px solid #ccc;
+	margin: 10px;
+}
+
+#izq {
+
+	width: 550px;
+	height: 300px;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+	text-align: justify;
+}
+
+#der{
+width: 310px;
+	height: 300px;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+	text-align: left;
+}
+
